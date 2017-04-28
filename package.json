@@ -1,0 +1,24 @@
+{
+  "name": "neo4j-playground",
+  "version": "1.0.0",
+  "description": "testing out neo4j",
+  "main": "server.js",
+  "scripts": {
+    "local": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jmicmoore/neo4j-playground.git"
+  },
+  "author": "Jerry Moore <jmoor6@monsanto.com> (https://like.what.ever)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jmicmoore/neo4j-playground/issues"
+  },
+  "homepage": "https://github.com/jmicmoore/neo4j-playground#readme",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "express": "^4.15.2"
+  }
+}
