@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/jmicmoore/neo4j-playground.git"
   },
-  "author": "Jerry Moore <jmoor6@monsanto.com> (https://like.what.ever)",
+  "author": "Jerry Moore <jmicmoore@gmail.com> (https://like.what.ever)",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/jmicmoore/neo4j-playground/issues"
